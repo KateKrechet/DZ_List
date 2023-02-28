@@ -1,0 +1,30 @@
+h3 {
+    font-size: 25px;
+    font-family: "Arial Black";
+}
+.parent li {
+    list-style-image: url(1.png);
+    list-style-position: inside;
+    font-size: 22px;
+    font-family: Calibri;
+}
+
+#winter li {
+    list-style-image: url(el.png);
+    font-size: 18px;
+}
+
+#spring li {
+    list-style-image: url(flower.png);
+    font-size: 18px;
+}
+
+#summer li {
+    list-style-image: url(arb.png);
+    font-size: 18px;
+}
+
+#autumn li {
+    list-style-image: url(list.png);
+    font-size: 18px;
+}
